@@ -191,6 +191,22 @@
     text-transform: uppercase;
 }
 
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+   position: relative;
+ right: 400px;
+ top: 0px;
+ 
+
+ 
+ 
+ 
+  }
+  
+ 
+  
+  
+
 .section-title::before {
     position: absolute;
     content: "";
