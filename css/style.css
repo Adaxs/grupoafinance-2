@@ -43,6 +43,7 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     transition: .5s;
+    border-radius: 10px;
 }
 
 .btn.btn-primary,
@@ -280,6 +281,13 @@ p {
     transform: scale(1.1);
 }
 
+.btn-primary:hover {
+    color:#000; 
+    background-color:#ffffff;
+    border-color:#013261;
+    color: #013a54;
+}
+
 
 /*** Package ***/
 .package-item {
@@ -322,8 +330,8 @@ p {
 }
 
 .border-v5 {
-    background-color: #029ec1;
-background-image: linear-gradient(19deg, #029ec1 0%, #013a54 100%);
+    background-color: #013a54;
+
 
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
     border-radius: 10px;
@@ -460,8 +468,8 @@ background-image: linear-gradient(19deg, #029ec1 0%, #013a54 100%);
 }
 
 .bg-primary {
-    background-color: #029ec1;
-background-image: linear-gradient(19deg, #029ec1 0%, #013a54 100%);
+    background-color: #013a54;
+  
 
 }
 
@@ -515,8 +523,8 @@ background-image: linear-gradient(19deg, #029ec1 0%, #013a54 100%);
 
 .btn-primary {
     color:#000;
-    background-color: #026d87;
-    background-image: linear-gradient(0deg, #026d87 0%, #013a54 100%);
+    background-color: #013a54 ;
+    border-radius: 10px;
     
     border-color:#dee2e4;
     border: 2px solid;
@@ -524,6 +532,10 @@ background-image: linear-gradient(19deg, #029ec1 0%, #013a54 100%);
 
 .h-1 {
     
+}
+
+.t-c1 {
+    color: #19191a;
 }
 
 
