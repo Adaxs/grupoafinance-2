@@ -328,9 +328,23 @@ p {
     background-color: rgb(172, 152, 109) !important;
     
 }
+.padding-top-1 {
+
+    margin-top: -100px;
+}
 
 .border-v5 {
     background-color: #013a54;
+
+
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+}
+
+.border-v6 {
+    background-color: #02c0ea;
+background-image: linear-gradient(45deg, #02c0ea 0%, #013a54 100%);
+
 
 
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
@@ -535,7 +549,7 @@ p {
 }
 
 .t-c1 {
-    color: #19191a;
+    color: #161628;
 }
 
 
