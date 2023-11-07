@@ -338,6 +338,12 @@ p {
     margin-top: -60px;
 }
 
+
+.padding-top-3 {
+
+    margin-top: -40px;
+}
+
 .border-v5 {
     background-color: #013a54;
 
@@ -407,6 +413,8 @@ background-image: linear-gradient(45deg, #02c0ea 0%, #013a54 100%);
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 35px;
+    color: white;
+
 }
 .pad-5 {
     padding-top: 15px;
